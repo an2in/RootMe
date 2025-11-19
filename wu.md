@@ -154,9 +154,9 @@ The password is the city where pepo is located.
 ### Solve
 We got a file. As the name the challenge suggest, we need to check the metadata to get the location embedded in the image.
 ```
-[datle@dat EXIF - Meatadate]$ ls
+[an2in@an2in EXIF - Meatadate]$ ls
 ch1.png
-[datle@dat EXIF - Meatadate]$ exiftool *
+[an2in@an2in EXIF - Meatadate]$ exiftool *
 ExifTool Version Number         : 13.36
 File Name                       : ch1.png
 [...]
